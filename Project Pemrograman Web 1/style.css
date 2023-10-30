@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-color: #CF7336;
+    color: #fff;
+    padding: 10px;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    margin-top: auto;
+}
+
+.konten {
+    background-color: #fff;
+    padding: 35px;
+    margin-bottom: 35px;
+    text-align: justify;
+}
+
+h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+
+/* h1 {
+    font-family: "Terminal Dosis"; 
+    font-size: 20px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: normal;  
+} */
+
+
+/* #outer {
+    margin : 5px auto;
+    width: 95%;
+    padding: 5px 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+body {
+background-image: url('C:\xampp\htdocs\Project Pemrograman Web 1\images\bg hutan.jpeg');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+/*body {
+    background-image: url('images/bg_hutan.jpeg');
+    background-size: cover;
+}
+
+/* #outer {
+    margin : 5px auto;
+    width: 95%;
+    padding: 5px 10px;
+    /* background-color: rgba(255, 255, 255, 0.5);} */
+
+
+/* body {
+    /* background: images/bg hutan.jpeg; 
+    background-size: cover;} */ 
